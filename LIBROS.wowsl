@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>LIBROS</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>photo</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/pulse/</ImageTemplate>
+            <ImageTemplateName>Pulse</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Elpidia/Pictures/trabajo dam/DAM/segundo parcial/aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/Elpidia/Pictures/trabajo dam/DAM/segundo parcial/aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>pulse</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/asp.net enfrente.jpg</url>
+                <title>asp.net enfrente</title>
+                <filesize>111337</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/comunicaciones.png</url>
+                <title>comunicaciones</title>
+                <filesize>224244</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/redes de las cumputadoras.jpg</url>
+                <title>redes de las cumputadoras</title>
+                <filesize>19666</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/sistemas  operativos.jpg</url>
+                <title>sistemas  operativos</title>
+                <filesize>18758</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/fundamentos de redes.jpg</url>
+                <title>fundamentos de redes</title>
+                <filesize>16299</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/java como programar.jpg</url>
+                <title>java como programar</title>
+                <filesize>210916</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/programcion en java C.jpg</url>
+                <title>programcion en java C</title>
+                <filesize>32147</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/estructura de dotos.jpg</url>
+                <title>estructura de dotos</title>
+                <filesize>7039</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Elpidia/Pictures/trabajo dam/manteniiento y reparacion de computadoras.jpg</url>
+                <title>manteniiento y reparacion de computadoras</title>
+                <filesize>55177</filesize>
+                <rotate>270</rotate>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
